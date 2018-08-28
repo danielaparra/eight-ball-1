@@ -43,6 +43,7 @@ class ViewController: UIViewController {
         "My sources say no",
         "Outlook not so good.",
         "Very doubtful.",
+        "If the moons align."
         ]
 }
 
